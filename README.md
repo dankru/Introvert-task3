@@ -1,4 +1,4 @@
-# This code is a test widget for amoCRM which colorCodes text making it the same color as it's block underline
+# This code is a test widget for amoCRM which colorCodes text by making it the color of it's underline
 
 ## How to run:
 ### 1. Set visibleWidgetNumber to any number inside widjet.js
