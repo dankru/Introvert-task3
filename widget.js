@@ -48,6 +48,6 @@ widgetTestColorCoder = function () {
     }
 };
 // создание экземпляра виджета и регистрация в системных переменных Yadra
-// widget-name - ИД и widgetTestColorCoder - уникальные названия виджета
-yadroWidget.widgets['widget-name'] = new widgetTestColorCoder();
-yadroWidget.widgets['widget-name'].bootstrap('widget-name');
+// widget-test-color-coder - ИД и widgetTestColorCoder - уникальные названия виджета
+yadroWidget.widgets['widget-test-color-coder'] = new widgetTestColorCoder();
+yadroWidget.widgets['widget-test-color-coder'].bootstrap('widget-test-color-coder');
